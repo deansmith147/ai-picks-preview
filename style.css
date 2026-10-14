@@ -46,3 +46,8 @@ blockquote{margin:6px 0;padding:8px 12px;border-left:4px solid var(--acc);backgr
 .go{font:inherit;font-weight:700;background:var(--acc);color:#0b1712;border:0;border-radius:12px;padding:12px 20px;min-height:48px;cursor:pointer}[data-theme=light] .go{color:#fff}
 .quizout{font-size:1.05em;margin:12px 0 0}table.narrow{min-width:0}.tbl:focus{outline:3px solid var(--acc)}
 tbody th{background:transparent;position:static;font-weight:700}h1{text-wrap:balance}
+a.tile{text-decoration:none}.crumbs{font-size:.9em;color:var(--muted)}.lead2{font-size:1.1em}
+.faq details{border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin:8px 0;background:var(--card)}.faq summary{font-weight:700;cursor:pointer;min-height:32px}
+.gloss dt{font-weight:800;margin-top:16px;color:var(--acc)}.gloss dd{margin:4px 0 0}.cl{border-left:3px solid var(--acc);padding-left:14px;margin:20px 0}.cl h2{font-size:1.05em}
+a.go{display:inline-block;text-decoration:none}.top nav{display:flex;flex-wrap:wrap;gap:4px 0;align-items:center}
+@media(max-width:600px){.top nav a{margin-left:0;margin-right:14px}.theme{margin-left:0}}
