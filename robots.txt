@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deansmith147.github.io/ai-picks-preview/sitemap.xml
